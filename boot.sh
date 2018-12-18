@@ -59,4 +59,10 @@ cd fonts
 cd ..
 rm -rf fonts
 
+echo Installing virtual environments \for python ...
+pip3 install virtualenvwrapper
+~/
+mkdir projects
+echo
+
 echo You\'re ready to go!
