@@ -65,4 +65,7 @@ pip3 install virtualenvwrapper
 mkdir projects
 echo
 
-echo You\'re ready to go!
+echo You\'re ready to go! But you\'re not \done.
+echo 
+echo remember to run: git config --global user.email \"email@example.com\"
+echo
