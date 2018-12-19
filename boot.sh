@@ -61,8 +61,7 @@ rm -rf fonts
 
 echo Installing virtual environments \for python ...
 pip3 install virtualenvwrapper
-~/
-mkdir projects
+mkdir ~/projects
 echo
 
 echo You\'re ready to go! But you\'re not \done.
